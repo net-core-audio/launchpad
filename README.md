@@ -1,4 +1,4 @@
-# launchpad
+# Launchpad
 Fully cross platform Novation Launchpad mini manager for .NET
 
 ## Getting Started

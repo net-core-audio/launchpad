@@ -1,5 +1,5 @@
 # Launchpad
-A library can enable to talk to your Launchpad Mini device in .NET Core. You can light buttons, listen pressed keys
+A library can enable to talk to your Launchpad Mini device in .NET & .NET Core. You can light buttons, listen pressed keys
 
 Developed this library on [Novation Launchpad Mini](https://novationmusic.com/launch/launchpad-mini) But you can contribute to extend library for another launchpads
 

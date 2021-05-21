@@ -10,7 +10,7 @@ Developed this library on [Novation Launchpad Mini](https://novationmusic.com/la
 ### Linux (Ubuntu)
 
 ```bash
-$ apt-get install libportmidi0
+$ apt-get install libportmidi-dev
 ```
 
 ### Mac OS
